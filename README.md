@@ -1,6 +1,6 @@
 # Sans Bullshit Sans for Education
 
-Source for the Sans Bullshit Sans for Education font (forked from [https://github.com/RoelN/SansBullshitSans](https://github.com/RoelN/SansBullshitSans). [Read about how this font was made](http://pixelambacht.nl/2015/sans-bullshit-sans) or visit the [SansBullshitSans site](http://sansbullshitsans.com) to see it in action. This font is based on [Droid Sans](http://fontsquirrel.com/fonts/droid-sans) and released under the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0).
+Source for the Sans Bullshit Sans for Education font (forked from [https://github.com/RoelN/SansBullshitSans](https://github.com/RoelN/SansBullshitSans)). [Read about how this font was made](http://pixelambacht.nl/2015/sans-bullshit-sans) or visit the [SansBullshitSans site](http://sansbullshitsans.com) to see it in action. This font is based on [Droid Sans](http://fontsquirrel.com/fonts/droid-sans) and released under the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0).
 
 ## Create the font
 Instructions how to convert from ttx (source) to ttf (usable font for OS):
