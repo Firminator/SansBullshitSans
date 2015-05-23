@@ -8,7 +8,7 @@ Instructions how to convert from ttx (source) to ttf (usable font for OS):
   2. `$ ttx SansBullshitSansForEducation.ttx`
 
 ## Installation
-Download https://github.com/RoelN/SansBullshitSans/blob/master/SansBullshitSans.ttf and install it into the OS font folder.
+Download https://github.com/Firminator/SansBullshitSansForEducation/blob/master/SansBullshitSansForEducation.ttf and install it into the OS font folder. Then activate within browser:
   - For Firefox:
     - Tools -> Options -> Content
     - Under 'Font and Colors' select SansBullshitSans
